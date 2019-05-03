@@ -3,6 +3,7 @@
   background-position: center;
   background-size: cover;
   color: white;
+  margin-bottom: 2%;
 }
 #logo{
   margin-left: 47%;
@@ -26,4 +27,7 @@
 #mouse{
   margin-left: 50%;
   margin-bottom: 7%;
+}
+.abt{
+  text-align: center;
 }
