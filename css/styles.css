@@ -1,0 +1,29 @@
+.p1{
+  background-image: url(../images/background/bg1.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+#logo{
+  margin-left: 47%;
+  margin-bottom: 9%;
+  margin-top: 12%;
+}
+#s1{
+  text-align: center;
+  font-size: 38px;
+
+}
+#s2{
+  text-align: center;
+  font-size: 38px;
+
+}
+#s3{
+  text-align: center;
+  font-size: 24px;
+}
+#mouse{
+  margin-left: 47%;
+  margin-bottom: 7%;
+}
