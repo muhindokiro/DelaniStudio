@@ -31,3 +31,9 @@
 .abt{
   text-align: center;
 }
+.p2{
+  background-image: url(../images/background/bg2.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
