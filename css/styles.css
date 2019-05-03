@@ -37,6 +37,10 @@
   background-size: cover;
   color: white;
 }
+#servic{
+  text-align: center;
+  margin-top: 5%;
+}
 #se1{
   text-align: center;
 }
@@ -45,4 +49,5 @@
 }
 #se3{
   text-align: center;
+  margin-bottom: 5%;
 }
