@@ -15,7 +15,11 @@ You need an electrical device phone, ipad, laptop,smart tv or any others with in
 
 Technologies Used
 
--HTML language. -CSS. -Javascript.
+-HTML language.
+
+-CSS.
+
+-Javascript.
 
 
 Contact details
@@ -25,13 +29,16 @@ How to contact me;
 Emails
 --------
 ndawn45@gmail.com
+
 newdawn90@gmail.com
 
 Phone no.
 ---------
-+254790783994
-+254767590436
-+254754237845*
+1. +254790783994
+
+2. +254767590436
+
+3. +254754237845*
 
 
 License MIT License (MIT)
