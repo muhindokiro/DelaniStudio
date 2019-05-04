@@ -104,8 +104,20 @@ padding-left: 500px;
 #contact{
   text-align: center;
   color: white;
-  margin-top: 5%;
+  margin-top: 3%;
 }
-#nem{
-
+#tarea{
+  margin-left: 30%;
+  margin-top: 2%;
+  margin-bottom: 5%
+}
+.nmail{
+  margin-left: 30%;
+}
+.p5{
+  margin-left: 27%;
+}
+.end{
+  text-align: center;
+  margin-top: 2%;
 }
