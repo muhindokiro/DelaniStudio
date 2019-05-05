@@ -119,6 +119,9 @@ padding-left: 500px;
 .development-hidden{
   display: none;
 }
+.ptmanagement-hidden{
+  display: none;
+}
 
 .p3{
   margin-top: 9%;
