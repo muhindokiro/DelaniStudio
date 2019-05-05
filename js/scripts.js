@@ -8,7 +8,7 @@ $(".clickable2").click(function(){
   $(".development-showing").toggle();
 });
 $(".clickable3").click(function(){
-  $(".management-hidden").toggle();
-  $(".management-showing").toggle();
+  $(".ptmanagement-hidden").toggle();
+  $(".ptmanagement-showing").toggle();
 });
 });
