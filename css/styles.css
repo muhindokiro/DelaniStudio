@@ -109,11 +109,18 @@ padding-left: 500px;
 #tarea{
   margin-left: 30%;
   margin-top: 2%;
-  margin-bottom: 5%
+  margin-bottom: 5%;
+  background-color: transparent;
 }
 .nmail{
-  margin-left: 30%;
+  margin-left: 36%;
   color: white;
+}
+#nem{
+  background-color: transparent;
+}
+#mail{
+  background-color: transparent;
 }
 .p5{
   margin-left: 27%;
