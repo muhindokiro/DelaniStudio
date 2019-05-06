@@ -128,19 +128,22 @@ padding-left: 500px;
   text-align: center;
 }
 
-.col-md-3{
+
+.col-md-3:hover{
   padding: 15px;
 }
 
 .p4{
   margin-bottom: 2%;
   margin-top: 5%;
+  background-position: center;
 }
 
 #contact{
   text-align: center;
   color: white;
   margin-top: 3%;
+  font-style: italic;
 }
 
 #tarea{
@@ -168,6 +171,11 @@ padding-left: 500px;
 
 .p5{
   margin-left: 27%;
+}
+
+#btn{
+  margin-left: 50%;
+  margin-bottom: 4%;
 }
 
 .end{
