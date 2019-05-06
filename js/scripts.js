@@ -11,4 +11,10 @@ $(".clickable3").click(function(){
   $(".management-hidden").toggle();
   $(".management-showing").toggle();
 });
+
+$("button").click(function(event) {
+  event.preventDefault();
+  var user = document.getElementById('nem').value;
+  alert("Hello there" + user + "your message has been received.");
+});
 });
