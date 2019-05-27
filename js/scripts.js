@@ -12,9 +12,9 @@ $(".clickable3").click(function(){
   $(".management-showing").toggle();
 });
 
-$("button").click(function(event) {
+$(".buttonsend").click(function(event) {
   event.preventDefault();
   var user = document.getElementById('nem').value;
-  alert("Hello there" + user + "your message has been received.");
+  alert("Hello there " + user + " your message has been received.");
 });
 });
